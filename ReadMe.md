@@ -15,3 +15,11 @@ Parameter settings in `sagemaker_submission.py`, you need to:
 | Dataset | Epoch | Optimizer | Learning Rate | Number of Worker | Batch size |
 | ------  | ----  | --------  | ------------- | ---------------- | ---------- |
 | CIFAR-10|  20   | Adadelta  |     0.1       |       2          |     128    |
+
+### Results
+Speedup Comparison:
+
+<img src = 'results_img/Time.png'>
+
+Accuracy Comparison:
+<img src = 'results_img/Accuracy.png'>
