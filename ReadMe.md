@@ -16,6 +16,13 @@ Parameter settings in `sagemaker_submission.py`, you need to:
 | ------  | ----  | --------  | ------------- | ---------------- | ---------- |
 | CIFAR-10|  20   | Adadelta  |     0.1       |       2          |     128    |
 
+### Code Structure
+- `run_distributed.py` -- Run for distributed training
+- `run_hpc.py` - Run for normal training
+- `sagemaker_submission.py` - Run for SageMaker submission on Amazon AWS
+- `utilization.py` - See GPU utilization for Current Machines
+- `plot_hpml.py` - Show the graph of calculation result 
+
 ### Results
 Speedup Comparison:
 
