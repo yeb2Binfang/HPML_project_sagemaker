@@ -1,4 +1,25 @@
-## Distributed Training based on Amazon Sagemaker
+<p align="center">
+<a href="https://engineering.nyu.edu/"><img src="https://user-images.githubusercontent.com/68700549/118066006-eaf92080-b36b-11eb-9116-9f8e02a79534.png" align="center" height="100"></a>
+</p>
+
+<div align="center"> 
+  
+## New York University
+
+ </div>
+
+<div align="center"> 
+  
+# Distributed Training based on Amazon Sagemaker
+
+#### Project  Report  for  ECE-GY  9143  Intro To High Performance Machine Learning
+
+
+### Course  Instructor:  Dr.  Parijat Dube
+
+#### Xingyu Pan, Binfang Ye
+  
+</div> 
 This is a comparison of experiment based on Amazon Sagemaker distributed library and normal 
 data parallel training.
 
