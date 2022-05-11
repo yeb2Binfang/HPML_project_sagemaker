@@ -77,14 +77,42 @@ When conducted our experiments, we use the same parameters as the control variab
 ## Results
   
 </div>
+
+
+<div align="justify"> 
+  
 We have the speedup comparison and accuracy comparison.
 
-**Speedup Comparison:**
-
+### Speedup Comparison:
+The Fig. 1 shows the speed up information. We can see that when we used different tarinning hardware accleartors (e.g. GPUs), the total training times shows different. The Amazon SageMaker is able to speedup the DNN training is most case apparently.
+<p align="center">
+  
 <img style = 'width:50%;height:auto;' src = 'results_img/Time.png'>
 
-**Accuracy Comparison:**
+</p>
+  
 
+<div align="center">
+ 
+Fig 1. shows the speed up information with the use of different hardware acclerators (e.g. GPUs).
+  
+</div>
+
+### Accuracy Comparison:
+The Fig. 2 shows that reduing training time by utilizing different hardware acclerators does not sacrifice the accuracy. From Fig. 2, we can observe that Amazon SageMaker can even yield a better accuracy compared with normal HPC. Therefore, we conclude that distributed training based on Sagemaker provides support speedup for most DNN training. 
+  
+<p align="center">
+  
 <img style = 'width:50%;height:auto;' src = 'results_img/Accuracy.png'>
 
+</p>
+  
+<div align="center">
+ 
+Fig 2. shows the accuracy information.
+  
+</div>
+  
 **The presentation [link](https://docs.google.com/presentation/d/1m24x9gfgI4jTMU9AvhQgptnmP4h4-QXJ-fn91tr32dE/edit?usp=sharing)**
+
+</div>
