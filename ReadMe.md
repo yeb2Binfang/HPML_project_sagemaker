@@ -31,3 +31,5 @@ Speedup Comparison:
 Accuracy Comparison:
 
 <img style = 'width:50%;height:auto;' src = 'results_img/Accuracy.png'>
+
+presentation link: https://docs.google.com/presentation/d/1m24x9gfgI4jTMU9AvhQgptnmP4h4-QXJ-fn91tr32dE/edit?usp=sharing
