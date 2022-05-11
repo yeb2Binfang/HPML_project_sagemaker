@@ -1,0 +1,11 @@
+machine,net,time,accuracy
+hpc,VGG,12.57,60.07
+sagemaker,VGG,30.06,72.45
+hpc,ResNet18,7.89,79.98
+sagemaker,ResNet18,7.72,72.80
+hpc,MobileNet,26.11,30.56
+sagemaker,MobileNet,10.09,56.34
+hpc,ShuffleNet,27.65,34.45
+sagemaker,ShuffleNet,10.35,59.33
+hpc,DenseNet,59.16,82.38
+sagemaker,DenseNet,33.78,71.69
