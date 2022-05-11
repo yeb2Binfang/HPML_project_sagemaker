@@ -22,4 +22,5 @@ Speedup Comparison:
 <img style = 'width:50%;height:auto;' src = 'results_img/Time.png'>
 
 Accuracy Comparison:
+
 <img style = 'width:50%;height:auto;' src = 'results_img/Accuracy.png'>
